@@ -4,11 +4,11 @@
 Email Me 👉 ✉️ **singharyan5656@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on: Chat Application
-- 🌱 **I’m currently learning:** Typescript
-- 💬 **Ask me about:** Collaboration,Tech Support
+- 🌱 **I’m currently learning: System Design
+- 💬 **Ask me about:** Collaboration,Tech Support.
 - 📫 **How to reach me:** singharyan5656@gmail.com or Linkedin 
 
-## 🔗 I am a Full Stack developer. 😊😊
+## 🔗 I am a Full Stack developer.😊😊
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__thearyansingh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-singh-a49b92226/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singharyan5656@gmail.com) 
 
